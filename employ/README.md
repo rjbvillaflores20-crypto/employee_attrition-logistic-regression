@@ -1,4 +1,6 @@
 # Employee Attrition Prediction Model
+### Math Modeling FCO - BSM CS 4B
+### Villaflores, Villero, Medina, Enriquez
 
 ## Overview
 This program uses a logistic regression model to predict employee attrition based on six key predictors: Monthly Income, Years at Company, Job Satisfaction, OverTime, Work-Life Balance, and Distance From Home. 
